@@ -3,8 +3,8 @@
  * Ejercicio 2 · Number(), parseInt() y parseFloat()
  */
 
-const texto = '25.75 euros';
+const text = '25.75 euros';
 
-console.log('Number():', Number(texto));
-console.log('parseInt():', parseInt(texto));
-console.log('parseFloat():', parseFloat(texto));
+console.log('Number():', Number(text));
+console.log('parseInt():', parseInt(text));
+console.log('parseFloat():', parseFloat(text));
