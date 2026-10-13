@@ -1,4 +1,10 @@
 # plantillas_wordpress
+
+# DOCUMENTACION ADDICIONAL
+
+[Enlace al doc](https://docs.google.com/document/d/1vSUTy0K8GrcPHtqoYaFHYP40Oi5a_acKJZ1TyIfsgPc/edit?usp=sharing)
+
+# TUTORIAL
 # Plantilla WordPress con Docker
 
 Este proyecto utiliza **Docker Compose** para crear un entorno de desarrollo con WordPress y MariaDB.
