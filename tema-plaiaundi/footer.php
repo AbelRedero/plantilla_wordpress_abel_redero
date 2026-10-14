@@ -1,6 +1,6 @@
 <?php wp_footer(); ?>
 <footer>
-    <p>© 2024 - Tema Plaiaundi</p>
+    <p>© 2026 - Tema Plaiaundi</p>
     </footer>
 </body>
 </html>
