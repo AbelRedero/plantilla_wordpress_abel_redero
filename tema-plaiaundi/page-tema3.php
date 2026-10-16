@@ -6,16 +6,14 @@ Template Name: Ejercicios JavaScript tema 3
 get_header();
 $ejercicio_seleccionado = tema_plaiaundi_obtener_ejercicio_seleccionado();
 $titulos_ejercicios = array(
-    'Es par',
-    'Suma, media, aprobados',
-    'Map'
+    '¿Prueba de ejercicio Tema 3',
 
 );
 ?>
 
 <main class="ejercicios">
     <h2><?php the_title(); ?></h2>
-    <p>Tema 3 · Fundamentos y particularidades de JavaScript</p>
+    <p>Tema 2 · Fundamentos y particularidades de JavaScript</p>
 
     <nav aria-label="Ejercicios de JavaScript">
         <ul class="ejercicios__lista">
