@@ -2,7 +2,8 @@
 
 # DOCUMENTACION ADDICIONAL
 
-[Enlace al doc](https://docs.google.com/document/d/1vSUTy0K8GrcPHtqoYaFHYP40Oi5a_acKJZ1TyIfsgPc/edit?usp=sharing)
+[Enlace al doc del TEMA 3](https://docs.google.com/document/d/11X7a0ZaEKVPWSOc3IEZhHT9k3Z9nn83DX1AHkYah3Io/edit?usp=sharing)
+[Enlace al doc del TEMA 2](https://docs.google.com/document/d/1vSUTy0K8GrcPHtqoYaFHYP40Oi5a_acKJZ1TyIfsgPc/edit?usp=sharing)
 
 # TUTORIAL
 # Plantilla WordPress con Docker

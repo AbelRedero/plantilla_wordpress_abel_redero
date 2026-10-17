@@ -16,3 +16,15 @@ const products = [
     {id:411 , name:"1g de aire 100% bio natural km 0" , price: 0.000000001 },
     {id:459 , name:"casi costoso" , price: 98 },
 ];
+
+
+const product_prices = products.map(product => product.price);
+console.log("Precios:", product_prices);
+
+
+const cheap_products = products.filter(product => product.price < 40);
+console.log("Baratos:", cheap_products);
+
+
+const product_with_id_2 = products.find(product => product.id === 2);
+console.log("Producto id 2:", product_with_id_2);
