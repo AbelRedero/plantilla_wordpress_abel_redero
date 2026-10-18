@@ -6,8 +6,9 @@
 
 let liters = 100;
 const TAKEN_LITERS = 7;
+const TIMES_TAKEN = 5;
 
-for (let i = 0; i >5; i++) {
+for (let i = 0; i >TIMES_TAKEN; i++) {
     liters -= TAKEN_LITERS;
     console.log('liters: ' + liters);
 }
