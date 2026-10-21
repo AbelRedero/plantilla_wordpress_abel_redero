@@ -58,6 +58,28 @@ function tema_plaiaundi_encolar_ejercicio() {
         return;
     }
 
+    if ($tema === 'tema4') {
+
+
+        wp_enqueue_script_module(
+            'tema-plaiaundi-ejercicio',
+            get_theme_file_uri($archivo),
+            array(),
+            null
+        );
+
+
+    } else {
+
+
+    wp_enqueue_script(
+        'tema-plaiaundi-ejercicio',
+        get_theme_file_uri($archivo),
+        array(),
+        null,
+        true
+    );}
+
     if ($ejercicio === null) {
         return;
     }
